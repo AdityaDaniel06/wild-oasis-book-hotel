@@ -1,8 +1,9 @@
 function Account() {
   return (
     <div>
-      <h1>Account</h1>
-      <p>This is the Account page.</p>
+        <h2 className="font-semibold text-2xl text-accent-400 mb-7">
+        Your reservations
+      </h2>
     </div>
   );
 }
